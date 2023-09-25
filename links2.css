@@ -1,5 +1,5 @@
 body {
-background-color:#AAA;
+background-color:CCC#
 padding:20px;
 margin:0px;
 font-family:Arial;
@@ -42,7 +42,7 @@ color:#FFFF00;
 }
 .column{
     float:left;
-    background:#BBB;
+    background:#DDD;
     width:450px; 
     padding:4px;
     margin-top:27px;
