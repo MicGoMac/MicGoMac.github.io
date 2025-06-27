@@ -19,20 +19,15 @@ margin-top:0px;
 div{
   display:inline-block;
   float:left;
-  color:#fff;
-  font-size:40px;
 }
 
 .one{
-  width:150px;
-  height:200px;
-  background:red;
+  float:left;
 }
 
 .two{
-    width:100px;
-  height:200px;
-  background:lightgreen;
+  float:left;
+    width:200px;
 }
 
 
