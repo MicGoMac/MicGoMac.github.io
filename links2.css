@@ -16,7 +16,13 @@ margin-bottom:0px;
 margin-top:0px;
 }
 
-div{
+.hrow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.xxxdiv{
   display:inline-block;
   float:left;
 }
@@ -27,7 +33,6 @@ div{
 
 .two{
   float:left;
-    width:200px;
 }
 
 
