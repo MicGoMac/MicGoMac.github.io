@@ -16,6 +16,27 @@ margin-bottom:0px;
 margin-top:0px;
 }
 
+div{
+  display:inline-block;
+  float:left;
+  color:#fff;
+  font-size:40px;
+}
+
+.one{
+  width:150px;
+  height:200px;
+  background:red;
+}
+
+.two{
+    width:100px;
+  height:200px;
+  background:lightgreen;
+}
+
+
+
 a {
 #height:27px;
 padding-left:19px;
