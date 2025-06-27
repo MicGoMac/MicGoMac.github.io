@@ -22,11 +22,6 @@ margin-top:0px;
   clear: both;
 }
 
-.xxxdiv{
-  display:inline-block;
-  float:left;
-}
-
 .one{
   float:left;
 }
@@ -34,7 +29,6 @@ margin-top:0px;
 .two{
   float:left;
 }
-
 
 
 a {
